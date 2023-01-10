@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omshree999
-- 👀 I’m interested in programming, project management and business analysis
-- 🌱 I’m currently learning new programming languages and AWS
+- 👀 I’m interested in cloud, project management & business analysis
+- 🌱 I’m working as Cloud and DevOps Engineer at Intuitive Cloud
 - 📫 You can reach me on LinkedIn - Omshree Butani
 
 <!---
