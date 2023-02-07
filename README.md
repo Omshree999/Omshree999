@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Omshree999
-- 👀 I’m interested in cloud, project management & business analysis
+- 👋 Hi, I’m Omshree
+- 👀 I’m interested in Cloud, DevOps, Project Management & Business Analysis
 - 🌱 I’m working as Cloud and DevOps Engineer at Intuitive Cloud
 - 📫 You can reach me on LinkedIn - Omshree Butani
 
